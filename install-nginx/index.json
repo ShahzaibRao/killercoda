@@ -17,6 +17,12 @@
     },
     "backend": {
       "imageid": "ubuntu"
-    }
+    },
+    "tasks": [
+      {
+        "text": "Ensure Nginx is installed and running",
+        "cmd": "bash validate.sh"
+      }
+    ]
   }
   
