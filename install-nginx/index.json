@@ -1,0 +1,22 @@
+{
+    "title": "Install Nginx",
+    "description": "Learn how to install and start Nginx.",
+    "details": {
+      "intro": {
+        "text": "intro.md"
+      },
+      "steps": [
+        {
+          "title": "Install Nginx",
+          "text": "step1.md"
+        }
+      ],
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
+  
