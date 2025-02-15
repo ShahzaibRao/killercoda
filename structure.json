@@ -3,6 +3,6 @@
       
       { "path": "linuxbasic ", "title": "simple ubunut vm" },
       { "path": "custome-ubunut", "title": "custome ubunut image"},
-      { "path": "install-nginx", "title": "Install Nginx" }
+      { "path": "install-nginx", "title": "Install Nginx" },
     ]
   }
