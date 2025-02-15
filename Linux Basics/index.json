@@ -1,0 +1,7 @@
+{
+    "title": "Linux VM",
+    "description": "You can use this ubuntu VM ",
+    "backend": {
+      "imageid": "ubuntu"
+    }
+  }
